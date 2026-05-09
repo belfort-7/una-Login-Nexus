@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginNexus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d2ac8a595a857500b1985e099413aea642d2489")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginNexus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginNexus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
